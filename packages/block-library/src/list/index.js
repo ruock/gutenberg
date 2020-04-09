@@ -27,6 +27,7 @@ export const settings = {
 	],
 	supports: {
 		className: false,
+		__experimentalColor: true,
 		__unstablePasteTextInline: true,
 		lightBlockWrapper: true,
 	},
